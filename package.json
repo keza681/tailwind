@@ -6,7 +6,6 @@
   "scripts": {
     "watch": "tailwindcss -i ./input.css -o ./css/main.css --watch",
     "build": "tailwindcss -i ./input.css -o ./css/main.css"
-
   },
   "repository": {
     "type": "git",
